@@ -1,4 +1,3 @@
-```
 import matplotlib.pyplot as plt
 
 def generate_graphs(df):
@@ -41,4 +40,3 @@ maintenance_issue: Maintenance (0/1)
 scheduled_dep_hour: Extracted hour
 delay_minutes: Target delay value
 """)
-```
