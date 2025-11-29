@@ -1,4 +1,3 @@
-```
 from data_generator import generate_synthetic_data, export_dataset
 from visualizations import generate_graphs, print_feature_description
 from features import feature_engineering
@@ -22,4 +21,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
