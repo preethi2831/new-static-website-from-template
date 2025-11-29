@@ -1,4 +1,3 @@
-```
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
@@ -39,4 +38,4 @@ def generate_synthetic_data(n_samples=1000):
 def export_dataset(df):
     df.to_csv("data/train_delay_synthetic_data.csv", index=False)
     print("✔ Dataset exported as train_delay_synthetic_data.csv")
-```
+
