@@ -40,7 +40,7 @@ Machine Learning (ML) provides an opportunity to analyze historical train data a
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Generating Graph
+#### Output1 -Weather vs Average Delay
 
 <img width="843" height="594" alt="image" src="https://github.com/user-attachments/assets/9321ee04-3ca5-43d9-a242-09ad7a7c99f5" />
 
@@ -48,8 +48,12 @@ Machine Learning (ML) provides an opportunity to analyze historical train data a
 
 <img width="831" height="569" alt="image" src="https://github.com/user-attachments/assets/4737b975-c9c7-43c4-94fb-4a15aa5e27c0" />
 
+#### Output3 - Congestion Level vs Delay
 
-Detection Accuracy:  54.41 minutes
+<img width="851" height="579" alt="image" src="https://github.com/user-attachments/assets/9fc27029-c6bd-487d-ba15-4c798e0b0395" />
+
+Predicted Delay: 54.41 minutes
+
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
