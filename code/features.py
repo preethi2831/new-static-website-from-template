@@ -1,4 +1,3 @@
-```
 def feature_engineering(df):
     X = df[[
         "train_name", "source", "destination", "weather",
@@ -6,4 +5,4 @@ def feature_engineering(df):
     ]]
     y = df["delay_minutes"]
     return X, y
-```
+
