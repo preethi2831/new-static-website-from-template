@@ -1,4 +1,3 @@
-```
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
@@ -60,4 +59,4 @@ def sample_predictions(model):
 
     pred = model.predict(sample)[0]
     print("\nPredicted Delay:", round(pred, 2), "minutes")
-```
+
